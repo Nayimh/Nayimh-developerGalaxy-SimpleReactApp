@@ -2,6 +2,7 @@ import React from 'react';
 import './Header.css'
 import './Header.css'
 const Header = () => {
+    // Header section
     return (
         <div className="header">
             <h1>Need experienced developer?</h1>

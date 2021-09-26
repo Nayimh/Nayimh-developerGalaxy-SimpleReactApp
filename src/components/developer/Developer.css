@@ -41,12 +41,13 @@
     background-color: aliceblue;
     width: 18rem;
     padding: 5px;
-    border: 1px solid gray;
+    
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 3rem;
+    box-shadow: 0 10px 30px lightgray;
 }
 
 .singleCart:hover{
-    box-shadow: 1px .5px 1px  1px  gray;
+    box-shadow: 0 10px 30px cornflowerblue;
 }
