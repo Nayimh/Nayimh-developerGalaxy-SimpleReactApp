@@ -7,9 +7,9 @@
 
 .cartContainer{
     margin-top: 4rem;
-    background-color: rgba(113, 152, 223, 0.747);
+    background-color: aliceblue;
     padding: 15px;
-    height: 12rem;
     width: 15rem;
     border-radius: 8px;
+    margin-bottom: 3rem;
 }
