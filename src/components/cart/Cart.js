@@ -23,7 +23,9 @@ const Cart = (props) => {
             <button className="Cartbtn" onClick={ () => window.location.reload(false)
  }> {element} Remove</button>
             <h4 className="name">Name:</h4>
+            <div className="singleDiv">
             <p className="singleName">{ name }  </p>
+            </div>
         </div>
     );
 };
