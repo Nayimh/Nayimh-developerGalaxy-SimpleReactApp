@@ -3,6 +3,7 @@
     margin: auto;
     display: grid;
     grid-template-columns: 5fr 1fr;
+    
 }
 
 .cartContainer{
@@ -12,4 +13,5 @@
     width: 15rem;
     border-radius: 8px;
     margin-bottom: 3rem;
+    border: 1px solid gray;
 }

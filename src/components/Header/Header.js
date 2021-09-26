@@ -4,9 +4,9 @@ import './Header.css'
 const Header = () => {
     return (
         <div className="header">
-            <h2>Need experienced developer?</h2>
-            <p>A lot of Developers belong to the web community.</p>
-            <h4>Total Budget 10 Million</h4>
+            <h1>Need experienced developer?</h1>
+            <p>A lot of Developers belong to the Developer Galaxy community.</p>
+            <h3>Total Budget 10 Million</h3>
         </div>
     );
 };

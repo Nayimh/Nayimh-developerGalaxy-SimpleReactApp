@@ -5,84 +5,108 @@
         "name": "Leanne Graham",
         "email": "Sincere@april.biz",
         "image": "https://www.nicepng.com/png/detail/96-966180_confused-in-software-selection-corporate-man-png.png",
-        "salary": 85900
+        "salary": 85900,
+        "country": "UK",
+        "specialized" : "MERN Stack"
     },
     {
         "id": 2,
        "name": "Ervin Howell",
         "email": "Shanna@melissa.tv",
        "image": "https://img.freepik.com/free-photo/corporate-man-with-crossed-arms_23-2148336962.jpg?size=626&ext=jpg",
-        "salary": 55900
+        "salary": 55900,
+        "country": "Italy",
+        "specialized" : "React"
     },
     {
         "id": 3,
        "name": "Clementine Bauch",
        "email": "Nathan@yesenia.net",
         "image": "https://www.seekpng.com/png/detail/211-2111085_related-wallpapers-man-corporate.png",
-        "salary": 76900
+        "salary": 76900,
+        "country": "South Africa",
+        "specialized" : "Back End"
     },
     {
         "id": 4,
         "name": "Patricia Lebsack",
         "email": "Julianne.OConner@kory.org",
        "image": "https://image.shutterstock.com/image-photo/portrait-young-african-businessman-isolated-260nw-143568499.jpg",
-        "salary": 85900
+        "salary": 85900,
+        "country": "Canada",
+        "specialized" : "Front-End"
     },
     {
         "id": 5,
         "name": "Chelsey Dietrich",
         "email": "Lucio_Hettinger@annie.ca",
         "image": "https://image.shutterstock.com/image-photo/smiling-successful-young-business-man-260nw-1655192011.jpg",
-       " salary": 85900
+       " salary": 85900,
+       "country": "USA",
+       "specialized" : "PHP"
     },
     {
        " id": 6,
-        "name": "Mrs. Dennis Schulist",
+        "name": " Dennis Schulist",
         "email": "Karley_Dach@jasper.info",
         "image": "https://image.freepik.com/free-photo/handsome-corporate-man-holding-notepad_23-2148336906.jpg",
-        "salary": 77500
+        "salary": 77500,
+        "country": "Sweden",
+        "specialized" : "Python"
     },
     {
         "id": 7,
        "name": "Kurtis Weissnat",
         "email": "Telly.Hoeger@billy.biz",
         "image": "https://image.shutterstock.com/image-photo/businessman-wearing-eyeglasses-looking-camera-260nw-602650757.jpg",
-        "salary": 45900
+        "salary": 45900,
+        "country": "Netherland",
+        "specialized" : "JavaScript"
     },
     {
         "id": 8,
-        "name": "Nicholas Runolfsdottir V",
+        "name": "Nicholas Runol",
         "email": "Sherwood@rosamond.me",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJcARCUT9PZ0ge1fBYuYPLqjUZ_49ZQsWygg&usqp=CAU",
-        "salary": 85900
+        "salary": 85900,
+        "country": "Poland",
+        "specialized" : "Full Stack"
     },
     {
         "id": 9,
         "name": "Glenna Reichert",
         "email": "Chaim_McDermott@dana.io",
         "image": "https://i.pinimg.com/236x/66/49/b2/6649b25316a5d72b6fba3451c8067185.jpg",
-        "salary": 65000
+        "salary": 65000,
+        "country": "Turkey",
+        "specialized" : "UI/UX Design"
     },
     {
         "id": 10,
-        "name": "Clementina DuBuque",
+        "name": "Mentina Buque",
         "email" : "buque.net@gmail.com" ,
         "image": "https://image.shutterstock.com/image-photo/smiling-indian-man-office-worker-260nw-1931704979.jpg",
-        "salary": 55000
+        "salary": 55000,
+        "country": "Canada",
+        "specialized" : "MERN Stack"
     },
     {
         "id": 11,
         "name": "Brandon smith",
         "email": "brandons.in@gmail.com",
         "image" : "https://media.istockphoto.com/photos/yong-business-man-or-corporate-employee-isolated-on-grey-background-picture-id1019406468",
-        "salary": 55900
+        "salary": 55900,
+        "country": "UK",
+        "specialized" : "Python"
     },
     {
        " id": 12,
         "name": "Alex Graham",
         "email": "graham@april.biz",
         "image": "https://i.pinimg.com/originals/68/43/52/684352e21a2cb6dcb87ba25d524cb9db.jpg",
-        "salary": 85900
+        "salary": 85900,
+        "country": "Turkey",
+        "specialized" : "MERN Stack"
     }
    
 ]

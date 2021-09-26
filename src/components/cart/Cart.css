@@ -1,5 +1,8 @@
 .uiCArt{
     text-align: center;
+    letter-spacing: .8px;
+    color: rgb(24, 86, 199);
+   
     
 }
 .uiCArt:hover{
@@ -14,8 +17,13 @@
     width: 7rem;
     border-radius: 4px;
     margin-top: 2rem;
-    font-weight: 700;
+    font-weight: 900;
     letter-spacing: 1px;
     cursor: pointer;
+}
+
+.singleName{
+    margin-bottom: 5px;
+    
 }
 

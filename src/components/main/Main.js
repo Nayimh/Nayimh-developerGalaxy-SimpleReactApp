@@ -22,7 +22,7 @@ const Main = () => {
             <div className="developer">
                 {
                     developers.map(developer => <Developer
-                        key={developer.id}
+                        key={developer.name}
                         developer={developer}
                         manageCart={manageCart}
                     >
