@@ -1,0 +1,15 @@
+.mainContainer{
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+
+.cartContainer{
+    margin-top: 4rem;
+    background-color: rgba(113, 152, 223, 0.747);
+    padding: 15px;
+    height: 12rem;
+    width: 15rem;
+    border-radius: 8px;
+}

@@ -1,0 +1,10 @@
+.header{
+    text-align: center;
+    background-color: aliceblue;
+    padding: 5px;
+    border-radius: 8px;
+    letter-spacing: 1px;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+}
