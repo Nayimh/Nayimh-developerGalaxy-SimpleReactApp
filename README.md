@@ -12,3 +12,10 @@ In the project directory, you can :
 3. display Total selected card length, Total Cost. and selected card person's name.
 
 4. That card also contains a Remove button. It actually relode the page and data gets removed. It is little tricky for beginner but nothing special.
+
+#Git link: 
+https://github.com/ProgrammingHeroWC4/the-superhero-direction-Nayimh
+
+#Live site Link: 
+
+https://developergalaxy.netlify.app/
