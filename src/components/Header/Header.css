@@ -8,4 +8,5 @@
     margin: auto;
     margin-top: 10px;
     color: rgb(24, 86, 199);
+    box-shadow: 0 1px 5px lightgray;
 }
