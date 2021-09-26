@@ -13,5 +13,6 @@
     width: 15rem;
     border-radius: 8px;
     margin-bottom: 3rem;
-    border: 1px solid gray;
+    box-shadow: 0 10px 30px lightblue;
+    /* border: 1px solid gray; */
 }

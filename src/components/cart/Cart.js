@@ -6,7 +6,7 @@ import { faRemoveFormat } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 // reseving cart data
 const Cart = (props) => {
-    // destructuring
+    // destructuring 
     const { cart } = props;
 // setting card  total, length and name (selecting card)
     let name = [];
